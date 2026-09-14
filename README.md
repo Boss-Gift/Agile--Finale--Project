@@ -1,2 +1,2 @@
-# Agile--Finale--Project
-This contains my Agile final project.
+# Study Tracker project
+This contains my Study Tracker  project.
